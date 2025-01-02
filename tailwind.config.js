@@ -20,14 +20,13 @@ module.exports = {
       },
       borderRadius: {
         xl: "20px",
-        "21xl": "40px",
       },
     },
     fontSize: {
       lg: "18px",
       base: "16px",
-      xl: "20px",
       "13xl": "32px",
+      xl: "20px",
       inherit: "inherit",
     },
     screens: {
